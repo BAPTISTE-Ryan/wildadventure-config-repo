@@ -1,7 +1,7 @@
 # wildadventure-config-repo
 This repository contains the configurations properties for all the miscroservices of the Wild Adventure application
 
-
+config-server:9101
 
 eureka-server:9102
 
